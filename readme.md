@@ -1,67 +1,56 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Richard+Elikem+Amenorpe;Product+Designer+%7C+UI%2FUX+Enthusiast;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
-  
-  <p align="center">
-    <em>I design and build digital experiences that are clean, user-friendly, and highly functional. <br/> Currently focused on crafting modern product designs while exploring the depths of full stack development.</em>
-  </p>
-  
-  <p align="center">
-    <a href="https://elitechcreatives.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=00FFD1" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/richard-elikem-amenorpe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:richardelikem31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4AF626&center=false&vCenter=true&width=800&lines=%3E_Hello%2C+World.+I'm+Richard+Elikem+Amenorpe.;%3E_Product+Designer.;%3E_UI%2FUX+Designer.;%3E_Full+Stack+Developer." alt="Typing SVG" />
 </div>
 
----
+<code>
+> SYSTEM_INFO: I design and build digital experiences that are clean, user-friendly, and highly functional. <br>
+> CURRENT_PROCESS: Focused on crafting modern product designs and developing full stack applications.
+</code>
+
+<br><br>
+
+### <img src="https://api.iconify.design/material-symbols:build-circle-outline-rounded.svg?color=%234AF626" width="24" height="24" align="center" /> <code>TECH_STACK.exe</code>
+
+<code>
+<img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=4AF626&color=000000&labelColor=000000" alt="Figma" />
+<img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=4AF626&color=000000&labelColor=000000" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=next.js&logoColor=4AF626&color=000000&labelColor=000000" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1E1E1E?style=for-the-badge&logo=tailwind-css&logoColor=4AF626&color=000000&labelColor=000000" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=4AF626&color=000000&labelColor=000000" alt="Node.js" />
+<img src="https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase&logoColor=4AF626&color=000000&labelColor=000000" alt="Supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=4AF626&color=000000&labelColor=000000" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/VS_Code-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=4AF626&color=000000&labelColor=000000" alt="VS Code" />
+</code>
 
 <br>
 
-## 🌌 Tech Arsenal
+### <img src="https://api.iconify.design/material-symbols:folder-open-outline.svg?color=%234AF626" width="24" height="24" align="center" /> <code>PROJECTS.dir</code>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
-
-<br>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
+| <img src="https://api.iconify.design/material-symbols:check-circle-outline.svg?color=%234AF626" width="20" /> <code>STATUS</code> | <code>PROJECT</code> | <code>DESCRIPTION</code> |
 | :--- | :--- | :--- |
-| **PulseAid** | Donation & campaign management platform with role-based dashboards. | React, Next.js, Tailwind, Supabase |
-| **Deals Dash** | E-commerce app prototype focusing on a seamless user experience. | Figma |
-| **SkillMatch** | Freelancer portfolio and job finder platform designed for skills matching. | UI/UX, Web Dev |
+| <img src="https://api.iconify.design/material-symbols:code-blocks-outline.svg?color=%234AF626" width="20" /> | <code><b>Klavora</b></code> | <code>Innovative platform designed with cutting-edge UI/UX.</code> |
+| <img src="https://api.iconify.design/material-symbols:deployed-code-outline.svg?color=%234AF626" width="20" /> | <code><b>Verdis</b></code> | <code>Full stack application with seamless user experience.</code> |
+| <img src="https://api.iconify.design/material-symbols:fact-check-outline.svg?color=%234AF626" width="20" /> | <code><b>Namecheck</b></code> | <code>Efficient utility tool emphasizing functional design.</code> |
 
 <br>
 
-## 📊 GitHub Diagnostics
+### <img src="https://api.iconify.design/material-symbols:query-stats.svg?color=%234AF626" width="24" height="24" align="center" /> <code>DIAGNOSTICS.log</code>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richkid2xi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Richard's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richkid2xi&theme=synthwave&hide_border=true&background=0D1117" alt="Richard's GitHub Streak" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=richkid2xi&show_icons=true&bg_color=000000&title_color=4AF626&text_color=A9A9A9&icon_color=4AF626&border_color=4AF626&hide_border=false" alt="Richard's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richkid2xi&background=000000&stroke=4AF626&ring=4AF626&fire=4AF626&currStreakNum=4AF626&currStreakLabel=4AF626&sideNums=4AF626&sideLabels=A9A9A9&dates=A9A9A9&hide_border=false" alt="Richard's GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richkid2xi&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richkid2xi&layout=compact&bg_color=000000&title_color=4AF626&text_color=A9A9A9&border_color=4AF626&hide_border=false" alt="Top Languages" />
 </div>
 
 <br>
 
-## 🔭 Currently Exploring
+### <img src="https://api.iconify.design/material-symbols:contact-mail-outline.svg?color=%234AF626" width="24" height="24" align="center" /> <code>CONTACT.bat</code>
 
-- Advanced React patterns and Next.js server components
-- AI-assisted design and code generation
-- Full stack application security & best practices
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=100&section=footer" width="100%" />
-</div>
+<code>
+<a href="https://elitechcreatives.com"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=Web&logoColor=4AF626&color=000000&labelColor=000000" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/richard-elikem-amenorpe"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=4AF626&color=000000&labelColor=000000" alt="LinkedIn" /></a>
+<a href="mailto:richardelikem31@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=4AF626&color=000000&labelColor=000000" alt="Email" /></a>
+</code>
