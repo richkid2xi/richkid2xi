@@ -22,7 +22,7 @@
 <td width="30%" align="center" valign="middle">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100%" style="border: 2px solid #00F7FF; border-radius: 8px;" />
   <br><br>
-  <a href="https://elitechcreatives.com"><img src="https://img.shields.io/badge/Visit_My_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" /></a>
+  <a href="https://elidex.vercel.app"><img src="https://img.shields.io/badge/Visit_My_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" /></a>
 </td>
 <td width="70%" valign="top">
   <br>
