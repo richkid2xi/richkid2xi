@@ -211,7 +211,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/richard-elikem-amenorpe"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000000&color=000000" /></a>
   <a href="mailto:richardelikem31@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=000000&color=000000" /></a>
-  <a href="https://elitechcreatives.com"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=000000&color=000000" /></a>
+  <a href="https://elidex.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=000000&color=000000" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002244,100:0088ff&height=120&section=footer" width="100%" />
